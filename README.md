@@ -21,7 +21,7 @@ As the name implies this course focuses on the broader aspects of using deep lea
 - 🛠 Infrastructure and tooling 
 - 📖 Data management 
 - 👩‍👩‍👦ML teams
-🏋- 🏾‍♂️ Training and debugging 
+- 🏋 Training and debugging 
 - 🧪 Testing and deployment 
 
 ### Why you might want to do the course?
