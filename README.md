@@ -1,4 +1,4 @@
-# Full-stack deep learning (for GLAMS)
+# Full Stack Deep Learning (for GLAMS)
 > A study group for the Full Stack Deep Learning Course with a focus on using ML in GLAM settings 
 
 ## What?
