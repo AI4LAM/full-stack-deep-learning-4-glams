@@ -28,7 +28,8 @@ As the name implies this course focuses on the broader aspects of using deep lea
 There is a lot of interest in applying AI/ machine learning in GLAM settings with a range of potential applications being explored. A previous study group followed the fastai course with a focus on a GLAM setting (link). 
 
 Whilst creating and training models is an important part of using deep learning/machine learning there are lots of steps before after and during this which are also important. Some of these additional considerations are technical but many contain social components too. 
-We also hope that following this course with others working in the GLAM setting will useful since we will have many of the same challenges (IT infrastructure, $$$ etc.)  and opportunities (open and interesting data, IIIF etc.) which may also be different from a business deployment of ML. 
+We also hope that following this course with others working in the GLAM setting will usefulwill be useful since we will have many of the same challenges (IT infrastructure, $$$ etc.)  and opportunities (open and interesting data, IIIF etc.) which may also be different from a business deployment of ML. 
+
 
 ### Pre-requisites 
 Some components of the course assume some previous knowledge of ML/Deep learning but the study group is open to anyone with an interest in the course and a GLAM setting. 
