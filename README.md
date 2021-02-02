@@ -37,3 +37,5 @@ Some components of the course assume some previous knowledge of ML/Deep learning
 
 ## Practicalities 
 We'll meet every two weeks and will use the [fastai4glams](https://forums.fast.ai/) forum thread to allow for asynchronous discussion. 
+
+The start date of the study group is TBC. If you want to get an email reminder before it starts signup [here](https://forms.gle/3GTgW5Th15ua5wjd7)
