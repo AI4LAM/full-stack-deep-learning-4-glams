@@ -1,5 +1,5 @@
 # Full Stack Deep Learning (for GLAMS)
-> A study group for the Full Stack Deep Learning Course with a focus on using ML in GLAM settings 
+> A study group for the Full Stack Deep Learning Course with a focus on using AI in GLAM settings 
 
 ## What?
 A study group of the upcoming [Full Stack Deep Learning course](https://course.fullstackdeeplearning.com/) with the aim of focusing on the application/context of AI in a GLAM (galleries, libraries, archives, and museums) setting. 
